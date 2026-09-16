@@ -11,6 +11,21 @@ version_major=1
 version_minor=0
 version_bugfix=0
 
+[links]
+
+HEVLIB_GITHUB={
+"URL": "https://github.com/rwqfsfasxc100/HevLib-Discord-RPC"
+}
+HEVLIB_DISCORD={
+"URL": "https://discord.com/channels/426287934870781952/1354537481197850655"
+}
+HEVLIB_DONATIONS={
+"URL": "https://ko-fi.com/00hev"
+}
+HEVLIB_BUGREPORTS={
+"URL": "https://forms.gle/vUoarawnYjy3hXJi9"
+}
+
 [manifest_definitions]
 
 manifest_version=2.2
