@@ -1,0 +1,9 @@
+;MOD_ID|hev.LIBRARY.discord_rpc
+;MOD_NAME|HevLib Discord RPC
+;AUTHOR|__hev
+
+[center][b]HevLib Discord RPC[/b][/center]
+
+Library extension for HevLib that provides samsface's godot discord game SDK library to HevLib for use with it's Discord RPC implementation.
+
+[b]Successor to the previous application-based Delta-V Discord RPC[/b]
