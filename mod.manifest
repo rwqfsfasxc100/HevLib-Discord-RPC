@@ -1,0 +1,16 @@
+[mod_information]
+
+name="HevLib Discord RPC"
+id="hev.LIBRARY.discord_rpc"
+brief="HEVLIBRPC_BRIEF"
+author="__hev"
+
+[version]
+
+version_major=1
+version_minor=0
+version_bugfix=0
+
+[manifest_definitions]
+
+manifest_version=2.2
