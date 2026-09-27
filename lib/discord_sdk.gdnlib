@@ -15,4 +15,4 @@ X11.64="res://HevLib Discord RPC/lib/DLL/libdiscord-game-sdk-godot.so"
 
 OSX.64=[ "res://HevLib Discord RPC/lib/DLL/discord_game_sdk.dylib" ]
 Windows.64=[ "res://HevLib Discord RPC/lib/DLL/discord_game_sdk.dll" ]
-X11.64=[ "res://HevLib Discord RPC/lib/DLL/discord_game_sdk.so" ]
+X11.64=[ "res://HevLib Discord RPC/lib/DLL/libdiscord_game_sdk.so" ]
